@@ -8,5 +8,5 @@
   "creator": "sackninja",
   "description": "Testnet NFT by Sackninja",
   "image": "https://imgur.com/a/iwvcl2f.jpg",
-  "attributes_url": "https://github.com/sackninja/NFT/{id}_attributes.json
+  "attributes_url": "https://github.com/sackninja/NFT/{id}_attributes.json"
 }
